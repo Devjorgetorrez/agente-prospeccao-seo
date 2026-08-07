@@ -1,0 +1,19 @@
+{
+  "name": "agente-prospeccao-seo",
+  "version": "1.0.0",
+  "description": "Catálogo do plugin de prospecção SEO + GEO + GMN para agências locais",
+  "owner": {
+    "name": "Devjorgetorrez"
+  },
+  "plugins": [
+    {
+      "name": "agente-prospeccao-seo",
+      "description": "Agente de prospecção SEO + GEO + GMN para agências locais",
+      "source": "./",
+      "category": "productivity",
+      "author": {
+        "name": "Devjorgetorrez"
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "agente-prospeccao-seo",
+  "version": "1.0.0",
+  "description": "Agente de prospecção SEO + GEO + GMN para agências locais",
+  "author": {
+    "name": "Devjorgetorrez"
+  },
+  "repository": "https://github.com/Devjorgetorrez/agente-prospeccao-seo",
+  "commands": "commands/"
+}
