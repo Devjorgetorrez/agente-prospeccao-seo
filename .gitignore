@@ -1,0 +1,21 @@
+# Dados de leads — contêm informações pessoais reais
+leads.csv
+leads_atualizado.csv
+leads_tmp_*.csv
+
+# Arquivos temporários
+*.tmp
+
+# Coletas de rodadas (dados brutos de pilotos)
+coletas/
+
+# Checkpoints de rodadas
+checkpoints/
+
+# Memória de sessões do Claude Code
+.claude/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo

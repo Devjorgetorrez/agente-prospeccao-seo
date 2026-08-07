@@ -1,0 +1,71 @@
+# Geografia e busca
+faixa_posicao:
+  min: 6
+  max: 30
+posicao_min_gmn: 4
+meta_resultados_maps: 20
+
+# Portão de valor da keyword
+# Regra (decisão do operador): basta que PELO MENOS UM dos top3 orgânicos qualificados
+# tenha tráfego >= este limite. Não é média — regra simples.
+trafego_min: 200
+
+# Lotes e checkpoint
+tamanho_lote: 10
+
+# Filtro de setor
+max_keywords_portal: 5000
+# "agregador" é sempre relativo: tráfego do candidato maior que o do
+# concorrente de referência (1º colocado) da própria rodada
+
+# Teto de repetição
+teto_por_concorrente: 6
+janela_teto_dias: 7
+
+# Custo
+max_chamadas_mcp: 60
+
+# Checklist do GMN — limites
+gmn_limiares:
+  avaliacoes_min: 30
+  nota_min: 4.0
+  meses_sem_post: 6
+  meses_foto_antiga: 12
+  avaliacoes_recentes_analisadas: 5
+
+# Ganho mais rápido — limites das regras
+ganho_rapido:
+  min_sinais_gmn_para_gmn: 3
+  posicao_max_seo: 15
+  gap_autoridade_max_seo: 15
+
+# Identidade de quem assina a mensagem
+remetente:
+  nome: ""
+  agencia: ""
+
+# Âncora de serviço por ganho — precisa ser preenchida antes do uso real
+ancoras:
+  SEO: ""
+  GEO: ""
+  GMN: ""
+
+# Descarte automático de e-mail
+dominios_email_invalidos:
+  - "noreply@"
+  - "no-reply@"
+  - "wixpress.com"
+  - "wordpress.com"
+  - "godaddy.com"
+
+# Validação de telefone
+telefone:
+  prefixo_pais: "55"
+  digitos_totais: 13
+  quinto_digito_deve_ser: "9"
+
+# Ordem de prioridade do canal de contato
+ordem_canal_preferencial:
+  - whatsapp
+  - instagram
+  - email

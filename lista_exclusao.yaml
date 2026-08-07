@@ -1,0 +1,39 @@
+diretorios_e_guias:
+  - jusbrasil.com.br
+  - doctoralia.com.br
+  - solutudo.com.br
+  - telelistas.net
+  - reclameaqui.com.br
+  - juridicocerto.com
+  - advocaciasportoalegre.com
+  - advocaciascampinas.com
+  - guiamaruipe.com.br
+  - portaljardimcamburi.com.br
+  - guiadovidro.com.br
+  - guiafix.com.br
+  - vidracarias.net
+  - listamais.com.br
+
+sufixos_institucionais:
+  - .gov.br
+  - .gov
+  - .leg.br
+  - .jus.br
+  - .mil.br
+  - .org.br
+
+redes_sociais:
+  - facebook.com
+  - instagram.com
+  - linkedin.com
+  - youtube.com
+  - tiktok.com
+
+marketplaces:
+  - mercadolivre.com.br
+  - amazon.com.br
+  - olx.com.br
+  - getninjas.com.br
+  - glassdoor.com.br
+  - cronoshare.com.br
+  - ohub.com.br
