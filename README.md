@@ -35,7 +35,7 @@ Se você já tem Claude Pro ou Max e o Claude Code instalado, a extensão do Chr
 1. Abra o Claude Code (o ícone fica na barra de tarefas ou no menu de aplicativos)
 2. Clique em **"Open Folder"** (ou Arquivo → Abrir pasta)
 3. Selecione a pasta onde você extraiu o ZIP — a que contém `config.yaml`, `CLAUDE.md` e a pasta `scripts/`
-4. Pronto. O agente já lê as instruções do `CLAUDE.md` automaticamente
+4. Pronto. O agente já lê as instruções do `CLAUDE.md` automaticamente — e o comando `/prospeccao-de-leads` já aparece no autocomplete assim que a pasta é aberta, sem nenhuma instalação adicional
 
 ---
 

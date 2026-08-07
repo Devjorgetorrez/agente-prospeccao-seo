@@ -12,8 +12,10 @@ coletas/
 # Checkpoints de rodadas
 checkpoints/
 
-# Memória de sessões do Claude Code
-.claude/
+# Memória de sessões do Claude Code (privado — nunca commitar)
+.claude/projects/
+.claude/settings.local.json
+# .claude/commands/ é commitado — contém o slash command do agente
 
 # Cache do Python
 __pycache__/
