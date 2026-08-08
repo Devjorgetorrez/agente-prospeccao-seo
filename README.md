@@ -33,10 +33,9 @@ Se você já tem Claude Pro ou Max e o Claude Code instalado, a extensão do Chr
 ## Como instalar (depois de extrair o ZIP)
 
 **Windows:**
-1. Dentro da pasta extraída, clique com o botão direito em `install.ps1`
-2. Clique em **"Executar com o PowerShell"**
-3. Aguarde as mensagens de progresso — o instalador verifica o Python, instala as dependências e coloca o comando no lugar certo
-4. Quando aparecer **"Instalação concluída!"**, pode fechar a janela
+1. Dentro da pasta extraída, dê **duplo clique em `install.bat`**
+2. Aguarde as mensagens de progresso — o instalador verifica o Python, instala as dependências e coloca o comando no lugar certo
+3. Quando aparecer **"Instalação concluída!"**, pressione qualquer tecla para fechar
 
 **Mac:**
 1. Abra o Terminal
